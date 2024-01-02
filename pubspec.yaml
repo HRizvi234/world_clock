@@ -35,6 +35,27 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  sqflite: ^2.3.0
+  weather: ^3.1.1
+  geocoding: ^2.1.1
+  analog_clock: ^0.1.1
+  url_launcher: ^6.2.1
+  geolocator: ^10.1.0
+  flutter_timezone: ^1.0.8
+  provider: ^6.1.1
+  timezone: ^0.9.2
+  http: ^1.1.2
+  intl: ^0.19.0
+  enefty_icons: ^1.0.7
+  country_state_city: ^0.1.6
+  worldtime: ^1.1.1
+  slide_digital_clock: ^1.0.3
+  path_provider: ^2.1.1
+  location: ^5.0.3
+  flutter_open_street_map: ^0.0.4
+  flutter_map_marker_cluster: ^1.2.0
+  webview_flutter: ^4.4.2
+  fluttertoast: ^8.2.4
 
 dev_dependencies:
   flutter_test:
@@ -59,8 +80,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+  - assets/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
@@ -73,7 +94,7 @@ flutter:
   # in this "flutter" section. Each entry in this list should have a
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
-  # example:
+  # elabdtech:
   # fonts:
   #   - family: Schyler
   #     fonts:

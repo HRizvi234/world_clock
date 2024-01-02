@@ -1,4 +1,4 @@
-package com.example.world_clock
+package com.elabdtech.world_clock
 
 import io.flutter.embedding.android.FlutterActivity
 
